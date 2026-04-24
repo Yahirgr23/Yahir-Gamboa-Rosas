@@ -8,8 +8,7 @@
 ---
 
 ## 🔧 Skills
-- 🐍 Python (pandas, openpyxl, python-pptx)  
-- 🌐 JavaScript (frontend & automation basics)  
+- 🐍 Python (pandas, openpyxl, python-pptx) 
 - 💽 Databases & data handling  
 - 🖥️ Hardware & software maintenance  
 - 📡 Networking (structured cabling, switch testing, security cameras)  
